@@ -1,1 +1,1 @@
-# beginner-work2023.github.io-Public2
+コーディング学習サイトで架空サイトの模写
